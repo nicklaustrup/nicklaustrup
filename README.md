@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: CI/CD pipelines.
 - 📖 I'm currently reading: _System Design Interview_
 - 👯 I’m looking to collaborate on: any open python or javascript projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicklaustrup).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicklaustrup)
 - ⚡ Fun fact: I have a dog named Blue 🐶
 
 ---
